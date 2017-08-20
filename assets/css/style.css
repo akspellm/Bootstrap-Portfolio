@@ -1,0 +1,35 @@
+/*/*STYLES CONTENT/BACKGROUND*/
+
+* {
+	font-family: 'Rokkitt', serif;
+}
+body {
+	background: url('../images/wood.jpg') no-repeat;
+	background-size: 100%
+}
+
+#main {
+	margin-top: 8em;
+}
+
+.navbar-brand {
+	font-size: 2em;
+}
+
+.navbar {
+	background-color: #8ca3a3 !important;
+	border-color: #563f46;
+}
+
+.navbar-nav {
+	font-size: 1.5em;
+}
+
+.card, .card-header {
+	border-color: #563f46;
+}
+
+p {
+	font-size: 1.2em;
+	margin-top: 4%;
+}
