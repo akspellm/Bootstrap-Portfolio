@@ -30,13 +30,12 @@ body {
 
 .card, .card-header {
 	border-color: #563f46;
+}
+
+.card-header {
 	text-align: center;
 }
 
-p {
-	font-size: 1.2em;
-	margin-top: 4%;
-}
 
 .footer {
 	position: fixed;
@@ -52,15 +51,26 @@ p {
     padding: .5em;
 }
 
+.bio {
+	font-size: 1.2em;
+	margin-top: 4%;
+}
 
-a p {
+
+.portfolio-label {
 	background-color: rgba(86,63,70, 0.89);
 	height: 10%;
 	color: white;
 	font-size:23px;
 	margin-top: 0;
+	text-align: center;
 }
 
 .profile-pic {
 	padding: 2%;
+}
+
+.form-group {
+	font-size: 1.2em;
+
 }
