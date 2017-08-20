@@ -6,7 +6,7 @@
 }
 body {
 
-	background: url('../images/wood.jpg') no-repeat;
+	background: url('../images/wood.jpg') repeat-y;
 	background-size: 100%;
 }
 
