@@ -1,13 +1,9 @@
+
 /*/*STYLES CONTENT/BACKGROUND*/
 
 * {
 	font-family: 'Rokkitt', serif;
 
-}
-body {
-
-	background: url('../images/wood.jpg') repeat-y;
-	background-size: 100%;
 }
 
 #main {
@@ -73,4 +69,17 @@ body {
 .form-group {
 	font-size: 1.2em;
 
+}
+
+.card {
+	margin-bottom: 3%;
+}
+
+a img {
+	display: block;
+	margin: 0px auto;
+}
+
+a {
+	text-decoration: none !important;
 }
